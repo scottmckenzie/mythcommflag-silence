@@ -1,4 +1,4 @@
-C        = g++
+CC        = g++
 CFLAGS    = -c -Wall -std=c++0x
 LIBPATH   = -L/usr/lib
 TARGETDIR = /usr/local/bin
